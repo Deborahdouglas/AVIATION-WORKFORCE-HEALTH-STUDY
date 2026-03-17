@@ -30,3 +30,19 @@ The dataset used in this project contains health-related information collected f
 
 ## Tools Used
 - Ms-Excel
+
+## Insights and findings
+- Fitness status varied across roles, with some roles showing higher proportions of employees classified as Fit than others.
+‎
+- ‎Comparing pilots with other roles showed some differences across health indicators like heart rate and vision score, but the variations were very small.
+‎
+- ‎Average BMI and blood pressure levels differed by job role, suggesting that job function may be associated with different health profiles.
+
+- Average blood pressure differed across age groups, with higher averages recorded among Unfit employees under 30. Interestingly, within the 40–59 age group, Fit employees recorded a higher average blood pressure compared to those classified as Unfit and Temporarily Unfit. Likewise the 30-44 age group. This made me pause and reflect on how fitness status was measured overall. It suggests that blood pressure alone may not have been the only metric used in determining fitness status.
+
+- Within the same job roles, male and female employees showed some differences in BMI and blood pressure, but the values were generally quite close. So while there were variations, they weren’t very far apart.
+
+
+## Recommendations
+‎‎I did a bit more digging into the BMI categories and found that about 36% of employees fall within the normal weight range, 35% are overweight, 24% are classified as obese, and 5% are underweight. ‎What really stood out was that about 26% of pilots fell into the obese category, and interestingly, around 27% of those obese pilots were still classified as fit. This made me pause and reflect on how fitness status was being determined in this dataset.
+‎Research generally shows that pilots are expected to fall within a BMI range of about 18–24.9, so this suggests that BMI may not have been the only factor considered. It also highlights a possible need for the company to review how employee fitness status is assessed and updated.‎
