@@ -17,7 +17,7 @@ The dataset used in this project contains health-related information collected f
 - The dataset was provided by the course instructor and was already cleaned and prepared for analysis
 - The dataset was examined to understand the variables and the overall structure of the data
 - Additional columns such as BMI category and Age group were created to help categorize the data and make the analysis more meaningful
-- Descripive statistics were used to analyze health inducators such as BMI and other relevant metrics
+- Descripive statistics were used to analyze health indicators such as BMI and other relevant metrics
 - charts and graphs were created to illustrate patterns and trends in the data
 - The results were interpreted to idetify key insights related to aviation employee health
 
